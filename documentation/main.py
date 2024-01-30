@@ -1,3 +1,3 @@
 
-
-print("hello world")
+animals = ["Dog", "Cat", "Bear"]
+print(animals)
